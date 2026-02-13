@@ -3,6 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=12A76E&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Polars](https://img.shields.io/badge/polars-0075ff?style=for-the-badge&logo=polars&logoColor=white)
+![Lightning](https://img.shields.io/badge/-Lightning-792ee5?logo=pytorchlightning&logoColor=white)](https://github.com/Lightning-AI/lightning)
 
 <!--
 **yusufozgur/yusufozgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
