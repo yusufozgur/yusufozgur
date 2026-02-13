@@ -7,6 +7,12 @@
 ![Polars](https://img.shields.io/badge/polars-0075ff?style=for-the-badge&logo=polars&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-%23DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white)
 
+What do I do?
+
+- Research how to make biological deep learning models interpretable
+- Develop software for bioinformatics
+
+
 <!--
 **yusufozgur/yusufozgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
