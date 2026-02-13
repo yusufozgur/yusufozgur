@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=12A76E&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 <!--
 **yusufozgur/yusufozgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
