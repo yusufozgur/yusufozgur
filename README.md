@@ -25,3 +25,4 @@ Here is a list of my current opinions that frequently come up in conversations. 
 - **Conda** vs **Pixi**: Do not use conda, it is a waste of time to learn and use. Pixi is what uv is to pip for conda, and uses uv under the hood for python dependencies.
 - **Deep Learning Frameworks**: New learners should learn pytorch, as deep learning research have moved on from tensorflow and other old technologies. JAX is an interesting up and coming alternative.
 - **Document Typesetting**: stop using WYSIWYG editors or latex/tex, use typst.
+- **Shell Scripting**: Ditch bash,zsh,fish. Embrace Nushell.
